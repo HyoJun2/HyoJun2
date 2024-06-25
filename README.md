@@ -1,8 +1,15 @@
 ## Hi there 👋
 
-**HyoJun2/HyoJun2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=개발자가%20하고싶은%20양효준입니다&fontAlign=50)
 
-Here are some ideas to get you started:
+[![HyoJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyoJun2)](https://github.com/HyoJun2/github-readme-stats)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={yanghj98})](https://solved.ac/{yanghj98})
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyoJun2&count_bg=%2379C83D&title_bg=%23555555&icon=protocols-dot-io.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
